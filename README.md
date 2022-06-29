@@ -8,9 +8,13 @@ Commands =>
   Move = Left click (Move at the place of the mouse on the screen)
   
   Attack :
+  
     - Sword = Left click on the monster
+    
     - Fireballs = Q
+    
     - Tornado = E
+    
     - Electrical laser = R
     
   Defense :
@@ -22,8 +26,11 @@ Commands =>
   
   Potions :
     - Health potion = &/1
+    
     - Mana potion = é/2
+    
     - Strength potion = "/3
+    
     - Speed potion = '/4
   
   
