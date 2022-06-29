@@ -12,19 +12,20 @@ Commands =>
     - Sword = Left click on the monster
     
     - Fireballs = Q
-    
+   
+    - Shield = W
+   
     - Tornado = E
     
     - Electrical laser = R
-    
-  Defense :
-    - Shield = W
+   
   
   Loot = Space bar in front of an object
   
   Inventory = C
   
   Potions :
+  
     - Health potion = &/1
     
     - Mana potion = é/2
